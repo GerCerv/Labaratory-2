@@ -1,4 +1,4 @@
-# FastAPI Task Manager API
+# Working with HTTP actions and API parameters
 
 This is a FastAPI application that manages tasks with CRUD operations.
 
@@ -21,7 +21,7 @@ pip install fastapi uvicorn
 To start the FastAPI server, run the following command:
 
 ```bash
-uvicorn main:app --reload
+uvicorn act2:app --reload
 ```
 
 This will start the server, and the API will be available at `http://127.0.0.1:8000`.
