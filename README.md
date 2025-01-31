@@ -113,5 +113,3 @@ FastAPI automatically generates interactive API documentation:
 
 ## License
 
-This project is licensed under the MIT License.
-
